@@ -1,0 +1,25 @@
+{
+  "name": "gritebels",
+  "version": "1.0.0",
+  "description": "news scraper homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roganoth/Gritebels.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roganoth/Gritebels/issues"
+  },
+  "homepage": "https://github.com/roganoth/Gritebels#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1",
+    "mongoose": "^5.8.9"
+  }
+}
