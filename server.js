@@ -160,5 +160,5 @@ app.get("/clearall", function(req, res) {
 });
 
 app.listen(3000, function() {
-    console.log("App running on localhost:3000")
+    console.log("App running on http://localhost:3000")
 });
